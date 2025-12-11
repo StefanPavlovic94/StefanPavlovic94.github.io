@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.fbeg1-1.fna.fbcdn.net/v/t51.2885-19/109129595_2901432839967960_7504052728994478274_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbeg1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QGa7LgHgcLqGJRXcCvmRudOi3P_vYjq1hvexAp8IDQUYBGuRfLKNpff7s63SkyB3vE&_nc_ohc=DStg2kdFV2EQ7kNvwEGVKGw&_nc_gid=i7YIIuOYMOwtrRTNfqJ1-Q&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfkCDFVPg4f6voXtjyN8-cWnD8pXdbYVxVBOjwuOCgFKkA&oe=693F40F6&_nc_sid=22de04
+avatar: /assets/img/Stefan.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
